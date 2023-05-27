@@ -13,7 +13,7 @@ const App = () => {
             Hey, I'm Charles!
           </h2>
           <p>
-            Welcome to my personal abode.
+            Welcome to my personal abode. (Work in Progress)
           </p>
           <p>
             I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
