@@ -1,7 +1,7 @@
 import React from 'react';
 const About = () => {
     return (
-        <div>
+        <div id = "about">
             <h2>About me</h2>
             <p>
                 Placeholder

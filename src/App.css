@@ -1,3 +1,14 @@
 /*
 This file is specifically for the App.js component and for styling things within it
 */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section {
+  width: 100%;
+  padding: 50px;
+}
