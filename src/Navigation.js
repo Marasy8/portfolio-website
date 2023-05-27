@@ -1,7 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, Outlet } from 'react-router-dom';
 
-function Navigation() {
+const Navigation = () => {
     return (
         <nav>
             <ul>
@@ -9,20 +9,20 @@ function Navigation() {
                     <Link to = "/">Home</Link>
                 </li>
                 <li>
-                    <Link to = "/">About</Link>
+                    <Link to = "/about">About</Link>
                 </li>
                 <li>
-                    <Link to = "/">Projects</Link>
+                    <Link to = "/projects">Projects</Link>
                 </li>
                 <li>
-                    <Link to = "/">Contact</Link>
+                    <Link to = "/contact">Contact</Link>
                 </li>
                 <li>
-                    <Link to = "/">GitHub</Link>
+                    <a href="https://github.com/marasy8" target="_blank" rel="noopener noreferrer">GitHub</a>
                 </li>
             </ul>
         </nav>
     );
-}
+};
 
 export default Navigation;

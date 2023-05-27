@@ -7,21 +7,21 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import GitHub from './components/GitHub';
 
-function App() {
+const App = () => {
   return (
     <Router>
-    <div>
-      <Navigation />
-      <Routes>
-        <Route exact path = "/" component = {Home}/>
-        <Route exact path = "/about" component = {About}/>
-        <Route exact path = "/projects" component = {Projects}/>
-        <Route exact path = "/contact" component = {Contact}/>
-        <Route exact path = "/github" component = {GitHub}/>
-      </Routes>
-    </div>
+      <div>
+        <Navigation />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/github" element={<GitHub />} />
+        </Routes>
+      </div>
     </Router>
   );
-}
+};
 
 export default App;
