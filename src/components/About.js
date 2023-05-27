@@ -2,12 +2,12 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-            <h2>About Me</h2>
+            <h2>About me</h2>
             <p>
-                Welcome to my personal abode. 
+                Placeholder
             </p>
             <p>
-                I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
+                Yup
             </p>
         </div>
     );
