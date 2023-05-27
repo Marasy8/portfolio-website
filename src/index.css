@@ -1,3 +1,8 @@
+/* 
+This contains flobal styles that applies to the entire app
+Can be for background folor, font styles, etc
+*/
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
