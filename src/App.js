@@ -26,7 +26,7 @@ const App = () => {
 
           </p>
           <p>
-            I love playing the piano, with <a href = "https://www.youtube.com/@marasy8">marasy8</a> being my personal inspiration. Some other interests I have include playing badminton, competing in Super Smash Bros. Ultimate (MkLeo = GOAT), reading manga, and fanboying over Xenoblade Chronicles (you should play it).
+            I love playing the piano, with <a href = "https://www.youtube.com/@marasy8" target="_blank" rel = "noopener noreferrer">marasy8</a> being my personal inspiration. Some other interests I have include playing badminton, competing in Super Smash Bros. Ultimate (MkLeo = GOAT), reading manga, and fanboying over Xenoblade Chronicles (you should play it).
 
           </p>
           <p>
@@ -34,7 +34,7 @@ const App = () => {
             I have received an immense amount of advice from my peers as well as experts who I reach out to in all areas of my life. 
           </p>
           <p>
-            The coolest thing to me about software development is the power of the individual to push boundaries. This website will be something to represent things I work on in the past, present and <a href = "https://www.youtube.com/watch?v=6AFrKrwfdr8">future</a>.
+            The coolest thing to me about software development is the power of the individual to push boundaries. This website will be something to represent things I work on in the past, present and <a href = "https://www.youtube.com/watch?v=6AFrKrwfdr8" target="_blank" rel = "noopener noreferrer">future</a>.
           </p>
           <p>
             Feel free to browse and learn more about my work. Looking forward to connecting!
