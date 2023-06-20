@@ -34,7 +34,7 @@ const App = () => {
             I have received an immense amount of advice from my peers as well as experts who I reach out to in all areas of my life. 
           </p>
           <p>
-            The coolest thing to me about software development is the power of the individual to push boundaries. This website will be something to represent things I work on in the present, present and future.
+            The coolest thing to me about software development is the power of the individual to push boundaries. This website will be something to represent things I work on in the past, present and <a href = "https://www.youtube.com/watch?v=6AFrKrwfdr8">future</a>.
           </p>
           <p>
             Feel free to browse and learn more about my work. Looking forward to connecting!
