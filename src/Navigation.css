@@ -6,13 +6,11 @@
   }
   
   .left-links {
-    display: flex;
-    align-items: center;
+    margin-right: auto;
   }
   
   .right-links {
-    display: flex;
-  align-items: center;
+    margin-left: auto;
   }
   
   .navigation a {
