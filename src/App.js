@@ -40,6 +40,24 @@ const App = () => {
             Feel free to browse and learn more about my work. Looking forward to connecting!
           </p>
         </section>
+        <section id="education" className="section">
+          <h2>Education</h2>
+          <p>
+            <h3>Bachelor of Science in Computing Science</h3>
+            <h4>University of Alberta</h4>
+            <h5>Edmonton, Alberta, Canada</h5>
+          </p>
+          <p>
+            Sept. 2018 - June 2023
+          </p>
+          <p>
+            Science Internship Program with Philosophy Minor
+          </p>
+          <p>
+            Description placeholder
+          </p>
+
+        </section>
         <section id="experience" className="section">
           <h2>Professional Experience</h2>
         </section>
