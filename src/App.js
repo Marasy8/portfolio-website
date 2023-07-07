@@ -40,6 +40,9 @@ const App = () => {
             Feel free to browse and learn more about my work. Looking forward to connecting!
           </p>
         </section>
+        <section id="experience" className="section">
+          <h2>Professional Experience</h2>
+        </section>
         <section id="projects" className="section">
           <h2>Projects</h2>
         </section>
