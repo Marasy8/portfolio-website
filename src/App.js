@@ -18,6 +18,13 @@ const App = () => {
           <p>
             I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
           </p>
+          {/* change below into icons later */}
+          <p>
+            <a href = "https://linkedin.com/in/charlesaizm" target="_blank" rel = "noopener noreferrer">LinkedIn</a>
+          </p>
+          <p>
+            <a href = "https://github.com/marasy8" target="_blank" rel = "noopener noreferrer">GitHub</a>
+          </p>
         </section>
         <section id="about" className="section">
           <h2>About me</h2>
