@@ -13,7 +13,6 @@ const Navigation = () => {
           <a href ="#education">Education</a>
           <a href ="#experience">Experience</a>
           <a href ="#projects">Projects</a>
-          <a href ="#contact">Contact</a>
           <a href ="https://github.com/marasy8" target="_blank" rel = "noopener noreferrer">GitHub</a>
         </div>
       </nav>

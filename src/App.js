@@ -64,9 +64,6 @@ const App = () => {
         <section id="projects" className="section">
           <h2>Projects</h2>
         </section>
-        <section id="contact" className="section">
-          <h2>Contact</h2>
-        </section>
       </div>
     </Router>
   );
