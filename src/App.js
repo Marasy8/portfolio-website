@@ -26,6 +26,7 @@ const App = () => {
             <a href = "https://github.com/marasy8" target="_blank" rel = "noopener noreferrer">GitHub</a>
           </p>
         </section>
+        
         <section id="about" className="section">
           <h2>About me</h2>
           <p>
@@ -47,6 +48,11 @@ const App = () => {
             Feel free to browse and learn more about my work. Looking forward to connecting!
           </p>
         </section>
+
+        <section id="experience" className="section">
+          <h2>Professional Experience</h2>
+        </section>
+
         <section id="education" className="section">
           <h2>Education</h2>
           <p>
@@ -63,11 +69,8 @@ const App = () => {
           <p>
             Description placeholder
           </p>
+        </section>
 
-        </section>
-        <section id="experience" className="section">
-          <h2>Professional Experience</h2>
-        </section>
         <section id="projects" className="section">
           <h2>Projects</h2>
         </section>
