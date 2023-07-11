@@ -3,7 +3,7 @@ This file is specifically for the App.js component and for styling things within
 */
 
 .section {
-  height: 100vh;
+  height: 120vh;
   padding: 50px;
   /* Add additional styling properties as needed */
 }
