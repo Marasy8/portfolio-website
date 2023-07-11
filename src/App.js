@@ -34,7 +34,7 @@ const App = () => {
 
           </p>
           <p>
-            I love playing the piano, with <a href = "https://www.youtube.com/@marasy8" target="_blank" rel = "noopener noreferrer">marasy8</a> being my personal inspiration. Some other interests I have include playing badminton, competing in Super Smash Bros. Ultimate, reading manga, and fanboying over Xenoblade Chronicles (you should play it).
+            I love playing the piano, with <a href = "https://www.youtube.com/@marasy8" target="_blank" rel = "noopener noreferrer">marasy8</a> being my personal inspiration. Some other interests I have include playing badminton, competing in Super Smash Bros. Ultimate, reading manga, and enjoying the series Xenoblade Chronicles.
 
           </p>
           <p>
