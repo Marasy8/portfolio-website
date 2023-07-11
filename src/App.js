@@ -13,7 +13,7 @@ const App = () => {
             Hey, I'm Charles!
           </h2>
           <p>
-            Welcome to my personal abode. (Work in Progress)
+            Welcome to my personal abode.
           </p>
           <p>
             I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
@@ -102,7 +102,7 @@ const App = () => {
             Science Internship Program with Philosophy Minor
           </p>
           <p>
-            Description placeholder
+            Course Highlights: Full-Stack Web Development, Object-Oriented Programming, Data Structures and Algorithms
           </p>
         </section>
 
