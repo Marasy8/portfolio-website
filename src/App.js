@@ -26,7 +26,7 @@ const App = () => {
             <a href = "https://github.com/marasy8" target="_blank" rel = "noopener noreferrer">GitHub</a>
           </p>
         </section>
-        
+
         <section id="about" className="section">
           <h2>About me</h2>
           <p>
@@ -51,6 +51,41 @@ const App = () => {
 
         <section id="experience" className="section">
           <h2>Professional Experience</h2>
+          <p>To be refined</p>
+
+          <h3>Software Development Intern</h3>
+          <p>Employment and Social Development Canada</p>
+          <p>May 2022 - Aug. 2022 | Remote</p>
+          <p>
+            Deployed enterprise software applications using Spring Boot and Camel to production via Jenkins. Worked on schemva validation which checked for errors in XML message consumption from queues using SoapUI. Integrated new properties into the stack architecture and implemented logging features for consistency and debugging. Utilized ElasticSearch for debugging.
+          </p>
+          
+          <h3>Software Development Intern</h3>
+          <p>Employment and Social Development Canada</p>
+          <p>Sept. 2021 - Dec. 2021 | Remote</p>
+          <p>
+            Developed features for replacement products using Spring Boot and Camel. Utilized SourceTree and Bitbucket to manage code changes and version control.
+          </p>
+
+          <h3>Engineering Intern</h3>
+          <p>TC Energy</p>
+          <p>May 2018 - Aug. 2018 | Edmonton, Alberta</p>
+          <p>
+            Designed and produced daily Wildfire hotspot reports by combining information from GeoFind, Alberta Wildfire Status, GIS, and more. Worked on over 30,000 Meter Station data with Excel for large scale data reformatting for consistency. 
+          </p>
+          <h3>Engineering Intern</h3>
+          <p>TC Energy</p>
+          <p>May 2017 - Aug. 2017 | Calgary, Alberta</p>
+          <p>
+            Performed large scale data uploads of 10,000+ equipment to Maxi-Trak involving Tanks and Pressure Vessels. Worked with Ultrasonic Thickness tests for the estimation of pipe degradation rate. 
+          </p>
+
+          <h3>Engineering Intern</h3>
+          <p>TC Energy</p>
+          <p>May 2016 - Aug. 2016 | Calgary, Alberta</p>
+          <p>
+            Primarily worked with Maxi-Trak, an engineering assets database software. Utilized Excel formulas for large scale reformatting and uploading. Additionally worked with a Maxi-Trak VP to provide UI/UX suggestions as an experienced user.
+          </p>
         </section>
 
         <section id="education" className="section">
