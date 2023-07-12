@@ -108,6 +108,13 @@ const App = () => {
 
         <section id="projects" className="section">
           <h2>Projects</h2>
+
+          <h3>Gyarados Bot</h3>
+          <p>A Python reminder bot using API from discord.py and deployed on Heroku (inactive).</p>
+          <p>The purpose of this bot was to announce regular messages for a discord server to aid as a reminder and also my first project.</p>
+          <p><a href = "https://github.com/marasy8/Gyarados-Bot" target="_blank" rel = "noopener noreferrer">GitHub Link</a></p>
+
+          
         </section>
       </div>
     </Router>
