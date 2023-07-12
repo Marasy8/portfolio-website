@@ -51,7 +51,6 @@ const App = () => {
 
         <section id="experience" className="section">
           <h2>Professional Experience</h2>
-          <p>To be refined</p>
 
           <h3>Software Development Intern</h3>
           <p>Employment and Social Development Canada</p>
