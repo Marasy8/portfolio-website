@@ -110,11 +110,18 @@ const App = () => {
           <h2>Projects</h2>
 
           <h3>Gyarados Bot</h3>
+          <h2>2020</h2>
           <p>A Python reminder bot using API from discord.py and deployed on Heroku (inactive).</p>
           <p>The purpose of this bot was to announce regular messages for a discord server to aid as a reminder and also my first project.</p>
           <p><a href = "https://github.com/marasy8/Gyarados-Bot" target="_blank" rel = "noopener noreferrer">GitHub Link</a></p>
 
-          
+          <h3>bi-med-ed</h3>
+          <h2>2021</h2>
+          <p>Business intelligence tool for the University of Alberta Faculty of Medicine and Dentistry that automates audit rules, bypassing the need for manual SQL queries.</p>
+          <p>React.js front end, Express.js and Cube.js backend, Postgresql database.</p>
+          <p>Developed javascript automation logic and also worked as a project manager for sprint planning and activities.</p>
+          <p>Private repo</p>
+
         </section>
       </div>
     </Router>
