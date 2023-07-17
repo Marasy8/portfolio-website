@@ -3,9 +3,10 @@ This file is specifically for the App.js component and for styling things within
 */
 
 .section {
-  height: 120vh;
+  min-height: 120vh;
   padding: 50px;
   /* Add additional styling properties as needed */
+  margin: 20px 0;
 }
 
 p {
