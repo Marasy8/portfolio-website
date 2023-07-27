@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# charlesai.dev 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a personal portfolio website for the purpose of learning about the design process, HTML/CSS/Javascript, and creating a react app.
 
 ## Available Scripts
 
