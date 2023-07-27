@@ -1,6 +1,6 @@
 # charlesai.dev 
 
-This is a personal portfolio website for the purpose of learning about the design process, HTML/CSS/Javascript, and creating a react app.
+This is a personal portfolio website for the purpose of learning about the design process, HTML/CSS/Javascript, and creating a React app.
 
 ## Available Scripts
 
