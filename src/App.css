@@ -6,6 +6,24 @@ This file is specifically for the App.js component and for styling things within
   display: flex;
   flex-direction: column;
   min-height: 120vh;
-  padding-left: 12%;
+  padding: 0 12%;
   margin: 20px 0;
+}
+
+.profile-intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 5%;
+  flex-shrink: 0;
+}
+
+.landing-icons {
+  display: flex;
+  gap: 16px;
+}
+
+.top-name {
+  font-family:'Georgia';
+  font-size: 48px;
 }

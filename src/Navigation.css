@@ -11,6 +11,7 @@
   
   .right-links {
     display: flex;
+    margin-left: auto;
   }
   
   .navigation a {

@@ -7,26 +7,25 @@ const App = () => {
   return (
     <Router>
       <Navigation />
-      <div className="section">
-        <div className="profile-intro">
-          <h2>
-            Hey, I'm Charles! 
-          </h2>
+      <div className="profile-intro section">
+        <div className="top-name">
+          Hey, I'm Charles!
+        </div>
+        <p>
+          Welcome to my personal abode.
+        </p>
+        <p>
+          I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
+        </p>
+        <div className="landing-icons">
+          {/* change below into icons later */}
           <p>
-            Welcome to my personal abode.
+            <a href="https://linkedin.com/in/charlesaizm" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </p>
           <p>
-            I'm a software developer with a passion for learning and design. I like playing piano, good stories, and competing in Smash Ultimate.
-            </p>
+            <a href="https://github.com/marasy8" target="_blank" rel="noopener noreferrer">GitHub</a>
+          </p>
         </div>
-        
-        {/* change below into icons later */}
-        <p>
-          <a href = "https://linkedin.com/in/charlesaizm" target="_blank" rel = "noopener noreferrer">LinkedIn</a>
-        </p>
-        <p>
-          <a href = "https://github.com/marasy8" target="_blank" rel = "noopener noreferrer">GitHub</a>
-        </p>
       </div>
 
       <div id="about" className="section">
