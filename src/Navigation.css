@@ -2,15 +2,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 16px 12%;
   }
   
   .left-links {
-    margin-right: auto;
+    display: flex;
   }
   
   .right-links {
-    margin-left: auto;
+    display: flex;
   }
   
   .navigation a {
