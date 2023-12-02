@@ -112,9 +112,9 @@ const App = () => {
         <h3>bi-med-ed</h3>
         <h4>2021</h4>
         <p>Business intelligence tool for the University of Alberta Faculty of Medicine and Dentistry that automates audit rules, bypassing the need for manual SQL queries.</p>
-        <p>React.js front end, Express.js and Cube.js backend, Postgresql database.</p>
+        <p>React.js frontend, Express.js and Cube.js backend, PostgreSQL database.</p>
         <p>University Group Project for CMPUT 401, group of 6.</p>
-        <p>Developed javascript automation logic and also worked as a project manager for sprint planning and activities.</p>
+        <p>Developed JavaScript logic for importing data to the PostgreSQL and also worked as a project manager for sprint planning and activities.</p>
         <p>Private repo</p>
 
         <h3>Gyarados Bot</h3>
